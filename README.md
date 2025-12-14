@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first repositor  y
+This is my first Repository
+Author- Ayush Sariyal
